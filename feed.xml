@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airlite Snowshoe</title>
+    <link>https://airlitesnowshoe.pages.dev</link>
+    <description>Latest posts from Airlite Snowshoe</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://airlitesnowshoe.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building Stronger Communities Through Local Engagement</title>
+      <link>https://airlitesnowshoe.pages.dev/posts/building-stronger-communities-through-local-engagement/</link>
+      <description>Building Stronger Communities Through Local Engagement — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>The Complete Winter Vehicle Emergency Kit Guide</title>
+      <link>https://airlitesnowshoe.pages.dev/posts/winter-vehicle-emergency-kit-guide/</link>
+      <description>Everything you need in your vehicle to survive a winter emergency — snowshoes, survival gear, and preparation tips.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
