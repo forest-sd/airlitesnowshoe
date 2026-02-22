@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://airlitesnowshoe.pages.dev/sitemap.xml
+Sitemap: https://airlitesnowshoe.com/sitemap.xml
